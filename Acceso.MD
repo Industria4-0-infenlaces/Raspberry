@@ -8,7 +8,8 @@ Con esto podemos acceder remotamente a Raspberry sin necesidad de contar un moni
 Sabiendo la dirección IP de la máquina:
 ![ip](https://github.com/Industria4-0-infenlaces/Raspberry/blob/main/ip%20a%20raspberry.JPG)
 
-Para acceder por VNC podemos usar [VNC viewer] (https://www.realvnc.com/es/connect/download/viewer/)
+Para acceder por VNC podemos usar [VNC viewer](https://www.realvnc.com/es/connect/download/viewer/)
 
-Con la dirección IP
-![VNC viewer Windows](
+![VNC viewer Windows](https://github.com/Industria4-0-infenlaces/Raspberry/blob/main/acceso%20vnc.JPG)
+
+Nos pedirá un usuario y contraseña. Nuestro usuario es industria4.
