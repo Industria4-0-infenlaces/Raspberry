@@ -13,3 +13,6 @@ Para acceder por VNC podemos usar [VNC viewer](https://www.realvnc.com/es/connec
 ![VNC viewer Windows](https://github.com/Industria4-0-infenlaces/Raspberry/blob/main/acceso%20vnc.JPG)
 
 Nos pedirá un usuario y contraseña. Nuestro usuario es industria4.
+
+Para el acceso SSH, sencillamente usaremos el comando ssh industria4@10.6.66.48:
+![ssh](https://github.com/Industria4-0-infenlaces/Raspberry/blob/main/ssh_acceso.JPG)
