@@ -6,6 +6,6 @@ En una Raspberrry una vez que ya hemos instalado en Sistema Operativo Raspbian:
 Con esto podemos acceder remotamente a Raspberry sin necesidad de contar un monitor dedicado.
 
 Sabiendo la dirección IP de la máquina:
-![ip] (ip%20a%20raspberry.JPG)
+![ip] (blob/main/ip%20a%20raspberry.JPG)
 
 Para acceder por VNC podemos usar [VNC viewer] (https://www.realvnc.com/es/connect/download/viewer/)
